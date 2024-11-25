@@ -38,7 +38,7 @@ console.log(accountCity);
 
 //   VAR KEYWORD:
 
-//<--// Variables defined with var can be redeclared.
+//<--// Variables defined with var can be redeclared. you can redeclare var in same scop;
 
 // With var you can do this:
 
