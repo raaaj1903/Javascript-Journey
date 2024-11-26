@@ -7,6 +7,7 @@ console.log(typeof(raj));
 
 // bigint = 4566789899086544// TYPE UNDEFINED
 
+
 // string => "" //STRING
 let d1="raj"
 console.log(typeof(d1));
@@ -68,4 +69,4 @@ const myFunction = function(){
 
 console.log(typeof anotherId);
 
-// BASIC OVER VIEW
+// BASIC OVER VIEW END

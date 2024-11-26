@@ -8,18 +8,18 @@ const repoCount = 2005;
 
  const gameName = new String('onlyraaj')// DIFFERNT WAY TO DECLARE STRING
 
- console.log(gameName[0]);//--o
+ console.log(gameName[0]);//--O
 // // console.log(gameName.__proto__);---{}
 
 
 console.log(gameName.length);//--8
  console.log(gameName.toUpperCase());//ONLYRAAJ
 
- console.log(gameName.charAt(2));//IN SECOND POSITION CHAR INFO
+ console.log(gameName.charAt(2));//IN SECOND POSITION CHAR INFO 
  
  const newStringOne = "  raaj     "
 console.log(newStringOne);//  raaj  
-console.log(newStringOne.trim());//raaj REMOVE EXTRA SCOP 
+console.log(newStringOne.trim());//raaj REMOVE EXTRA SCOP //
 
 
 // ****************NUMS AND MATHS****************

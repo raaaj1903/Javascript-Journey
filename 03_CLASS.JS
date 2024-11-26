@@ -69,7 +69,7 @@ console.log(gameCounter);//101;
 
 
 // **************************MEMORY ****************
-// STACK (PRIMATIVE);// to  creat a copy and update it
+// STACK (PRIMATIVE);// to  creat a copy and update it AND GIVE RESULT
 let raj ="raj jaiswal"
 let anotherName=raj
 anotherName= "rishi"
@@ -78,4 +78,4 @@ console.log(raj);
 console.log(anotherName);
 
 
-//HEAP (MON PREMATIVE) original value me change hotaa h
+//HEAP (MON PREMATIVE) original value me change hotaa h-->EX-ARRAY 
