@@ -11,7 +11,7 @@ console.log(raj);//[ 'thor', 'Ironman', 'spiderman', [ 'superman', 'flash', 'bat
 
 let array =[1, 2, 3, [4, 5, 6], 7, [6, 7, [4, 5]]]//input
 
-let real_another_array=array.flat(Infinity)
+let real_another_array=array.flat(Infinity)//SIMILAR TO SPREAD
 console.log(real_another_array);//[
     // 1, 2, 3, 4, 5,
     // 6, 7, 6, 7, 4,

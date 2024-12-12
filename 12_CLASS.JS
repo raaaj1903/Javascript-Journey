@@ -12,3 +12,5 @@
 
 // ()()---iife
 
+
+// EXECTION CONTEXR--VIDEO 25

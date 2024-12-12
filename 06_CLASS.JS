@@ -21,8 +21,8 @@ myArr2.push(7)// ELEMENT--INSERT IN LAST INDEX IN ARRAY
 
  myArr2.shift()//ELEMNT DELETE IN FIRST INDEX IN ARRAY
 
-console.log(myArr2.includes(9))
-// console.log(myArr.indexOf(3));
+console.log(myArr2.includes(9))// IN ARRAY DATA PRESNT otuput--true// NOT PRESENT IN DATA -OUTPUT-FALSE;
+// console.log(myArr.indexOf(3));//TRUE
 
 // const newArr = myArr.join()
 
@@ -42,7 +42,7 @@ console.log(myArr2.includes(9))
 // [ 2, 3 ]--**output slice
  console.log(raj);
 
-//  [ 1, 2, 3, 4, 5 ] after slice opertsion in array not change heap memory copy create;
+//  [ 1, 2, 3, 4, 5 ] after slice opertsion in array not change STACK memory copy create;
  
 
 let raj2=[1,2,3,4,4];
@@ -61,3 +61,6 @@ console.log(raj2);
 // [ 1, 4 ]
 
 // IMPORTENT NOTES:IN SPLICE METHIDE ORIGIANL ARRAY VALUE IS CHANGED--HEAP MEMORY
+
+
+

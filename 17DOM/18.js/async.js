@@ -1,0 +1,1 @@
+// syncronus --- by deafult java script language syncronus language reson is  java script engine it is excute code line by line after execute one line code it is execute another line
